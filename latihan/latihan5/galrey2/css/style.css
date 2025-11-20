@@ -1,8 +1,7 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Poppins", Helvetica, sans-serif;
   font-size: 15px;
-  /*background-image: url(../img/crop/OCDI_SJ.png);*/
-  background-color: #222;
+  background: linear-gradient(#222, rgb(240, 240, 240));
   line-height: 1.5;
 }
 
@@ -27,7 +26,7 @@ body {
 .header .judul {
   font-size: 30px;
   font-weight: 700;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "orbitron", Helvetica, sans-serif;
   color: #333;
   letter-spacing: 1px;
 }
@@ -39,6 +38,7 @@ body {
 .header ul li {
   display: inline-block;
   margin-top: 20px;
+  font-family: "orbitron", Helvetica, sans-serif;
 }
 
 .header a {
@@ -69,6 +69,7 @@ body {
 }
 
 .content h2 {
+  font-family: "orbitron", Helvetica, sans-serif;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -111,36 +112,37 @@ body {
 }
 
 .carousel-1 {
-  background-image: url(../img/crop/Ocid_SJ-10.jpg);
+  background-image: url(../img/full/Ocid_SJ-100.jpg);
 }
 
 .carousel-2 {
-  background-image: url(../img/crop/Ocid_SJ-162.jpg);
+  background-image: url(../img/full/Ocid_SJ-8.jpg);
 }
 
 .carousel-3 {
-  background-image: url(../img/crop/Ocid_SJ-18.jpg);
+  background-image: url(../img/crop/Ocid_SJ\ -20.JPG);
 }
 
 .carousel-4 {
-  background-image: url(../img/crop/Ocid_SJ-35.jpg);
+  background-image: url(../img/crop/Ocid_SJ-18.jpg);
 }
 
 .carousel-5 {
-  background-image: url(../img/crop/Ocid_SJ-97.jpg);
+  background-image: url(../img/full/Ocid_SJ-260.jpg);
 }
 
 .download-links {
   text-align: center;
   margin-top: 40px;
   padding: 30px;
-  background-color: #f9f9f4;
   border-radius: 10px;
 }
 
 .download-links h3 {
   margin-bottom: 20px;
   font-size: 18px;
+  font-family: "orbitron", Helvetica, sans-serif;
+  font-weight: bold;
 }
 
 .link-list {
